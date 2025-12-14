@@ -33,7 +33,7 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:jayakrishnans2041@gmail.com" target="_blank">jayakrishnan2041@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://jk-v3-portfolio.netlify.app/" target="_blank">My Portfolio</a></li>
+            <li>👀 Take a look at <a href="https://jk-portfolio-v3.netlify.app/" target="_blank">My Portfolio</a></li>
 <!--             <li>📄 Here's my <a href="" target="_blank">Resume</a></li> -->
         </ul>
     </div>
