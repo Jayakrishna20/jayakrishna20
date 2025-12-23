@@ -63,9 +63,7 @@
             <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="48" alt="Csharp" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/322px-Go_Logo_Blue.svg.png" alt="Go"
-                width="55" />&nbsp;&nbsp;&nbsp
+                width="48" />&nbsp;&nbsp;&nbsp            
         </p>
     </div>
     <div>
@@ -73,16 +71,16 @@
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
-            <a href="https://github.com/Jayakrishna20/useItagain">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=useItagain&theme=dark" /></a>
+            <a href="https://github.com/Jayakrishna20/ai_summarizer">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=ai_summarizer&theme=dark" /></a>
             <a href="https://github.com/Jayakrishna20/snake-game-ai-pytorch">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=snake-game-ai-pytorch&theme=dark" /></a>
             <a href="https://github.com/Jayakrishna20/netflix-clone-flutter">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=netflix-clone-flutter&theme=dark" /></a>
-            <a href="https://github.com/Jayakrishna20/shopping-cart-node-js">
+            <a href="https://github.com/Jayakrishna20/book_recomm">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=shopping-cart-node-js&theme=dark" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=Jayakrishna20&repo=book_recomm&theme=dark" /></a>
         </p>
     </div>
     <br />
